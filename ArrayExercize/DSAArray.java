@@ -10,5 +10,6 @@ public class DSAArray {
         int[] array = { 3, 9, 5, 4, 2, 7, 1, 9 };
         int[] output = Exercise.findTopTwoScores(array);
         System.out.println(Arrays.toString(output));
+        System.out.println("Modified");
     }
 }
